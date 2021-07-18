@@ -88,59 +88,77 @@
         "placeId" :1,
         "id" : 1,
         "namePlace" :"Quảng trường Ba Đình – Lăng Bác",
-        "img":"https://dulichkhampha24.com/wp-content/uploads/2020/01/quang-truong-ba-dinh-ha-noi-11.jpg"
+        "img":"https://bestour.com.vn/uploads/quang-truong-ba-dinh-ha-noi-bestour1.jpg"
         },
         {
-        "placeId" :1,
-        "id" : 2,
+          "placeId" :1,
+          "id" : 2,
           "namePlace" :"Hồ Gươm",
-          "img":"https://hoabinhhotel.com/upload_images/images/1.jpg"
+          "img":"https://thiencamtravel.vn/Uploads/images/HA-NOI/hanoi-3.png"
+        },
+        {
+          "placeId" :1,
+          "id" : 3,
+          "namePlace" :"Phố cổ Hà Nội",
+          "img":"https://dulichviet.net.vn/wp-content/uploads/2019/09/pho-co-ha-noi.png"
+        },
+        {
+          "placeId" :1,
+          "id" : 4,
+          "namePlace" :"Văn Miếu – Quốc Tử Giám",
+          "img":"https://travelmart.vn/uploads/2019/05/08/van-mieu-quoc-tu-giam-07jpg-1557300819753.jpg"
+        },
+        {
+          "placeId" :1,
+          "id" : 5,
+          "namePlace" :"Nhà thờ lớn Hà Nội",
+          "img":"https://media.travelmag.vn/center/600x400/files/news/2020/07/17/tips-chup-anh-song-ao-cuc-chat-tai-nha-tho-lon-ha-noi-183501.jpg"
         },
         {
           "placeId" :2,
-        "id" : 3,
+          "id" : 6,
           "namePlace" :"Dinh Độc Lập",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
         },
         {
           "placeId" :2,
-        "id" : 4,
+          "id" : 7,
           "namePlace" :"Khu du lịch Suối Tiên",
           "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/suoi-tien-1.png"
         },
         {
-          "placeId" :3,
-        "id" :5,
+          "placeId" :2,
+          "id" :8,
           "namePlace" :"Bà Nà Hill",
           "img": "https://d2sx1calt21doo.cloudfront.net/xxt/experience/image/3-jpg-1080x720-FIT-fe1fe6a204f8ebd899d9b7406e5f779e.jpeg"
         },
         {
-          "placeId" :3,
-        "id" : 6,
+          "placeId" :2,
+          "id" : 9,
           "namePlace" :"Bán đảo Sơn Trà",
           "img": "https://dacotours.com/wp-content/uploads/2019/10/son-tra-da-nang.jpg"
         },
         {
-          "placeId" :4,
-        "id" : 7,
+          "placeId" :2,
+        "id" : 10,
           "namePlace" :"Khu du lịch Vinpearl Land",
           "img": "https://khachsandanang.shop/uploads/images/images/tro-choi-ngoai-troi-vinwonders-nha-trang.jpg"
         },
         {
-          "placeId" :4,
-        "id" : 8,
+          "placeId" :3,
+        "id" : 11,
           "namePlace" :"Bãi biển Nha Trang",
           "img": "https://cdn.thodianhatrang.vn/Media/Articles/250818120722/Gallery/bien-nha-trang-2.jpg?width=786&height=590&quality=80&mode=crop"
         },
         {
-          "placeId" :5,
-        "id" : 9,
+          "placeId" :3,
+        "id" : 12,
           "namePlace" :"Khu vui chơi Sun World Quảng Ninh",
           "img": "https://owa.bestprice.vn/images/articles/uploads/kinh-nghiem-vui-choi-pha-dao-sun-world-ha-long-khong-thieu-thu-gi-5d9bfd4d60d89.jpg"
         },
         {
-          "placeId" :5,
-        "id" : 10,
+          "placeId" :3,
+        "id" : 13,
           "namePlace" :"Vịnh Hạ Long",
           "img": "https://dulichhalongquangninh.com/wp-content/uploads/2016/07/hinh-anh-du-lich-ha-long.jpg"
         }
