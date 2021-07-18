@@ -3,12 +3,12 @@
 {
   "place": [
     {
-      "place": "Hà Nội",
+      "place": "TP Hà Nội",
       "id": 1,
       "img": "https://cdn.justfly.vn/600x400/media/db/87/da5a-092f-4c27-bc45-11d1c5ee6397.jpg" 
     },
     {
-      "place": "Hồ Chí Minh",
+      "place": "TP Hồ Chí Minh",
       "id": 2,
       "img": "https://thiencamtravel.vn/Uploads/images/Ho-chi-minh/ho-chi-minh-2.png"
     },
