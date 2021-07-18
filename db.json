@@ -26,6 +26,61 @@
       "place": "Bạc Liêu",
       "id": 5,
       "img": "https://1.bp.blogspot.com/-pzC7xH480b8/XTgtkXNRagI/AAAAAAAAAMQ/WqsqJwl_ZMABgbP5b5Rah8i1q1EvimfoQCLcBGAs/s1600/Untitled.png"
+    },
+    {
+      "place": "Bắc Giang",
+      "id": 6,
+      "img": "https://baihay.net/sites/default/files/styles/node600/public/dd_34.jpg" 
+    },
+    {
+      "place": "Bắc Kạn",
+      "id": 7,
+      "img": "https://travelcar.vn/images/product_c10045.png"
+    },
+    {
+      "place": "Bắc Ninh",
+      "id": 8,
+      "img": "https://vegiagoc.com/Upload/images/yiyi.png"
+    },
+    {
+      "place": "Bến Tre",
+      "id": 9,
+      "img": "https://thiencamtravel.vn/Uploads/images/MYTHO/tour-mien-tay-1.png"
+    },
+    {
+      "place": "Bình Dương",
+      "id": 10,
+      "img": "https://vienthammys-one.vn/wp-content/uploads/2020/10/binh-duong.png"
+    },
+    {
+      "place": "Bình Định",
+      "id": 11,
+      "img": "https://quynhonservice.com/wp-content/uploads/2020/09/119515671_3534092799976767_8180859613233359945_o-1.png" 
+    },
+    {
+      "place": "Bình Phước",
+      "id": 12,
+      "img": "https://yt.cdnxbvn.com/medias/uploads/28/28956-rung.jpg"
+    },
+    {
+      "place": "Bình Thuận",
+      "id": 13,
+      "img": "https://timeoutvietnam.com/files/2016/04/21/du-lich-le-304-tai-7-diem-cam-trai-da-het-say-o-binh-thuan-1.jpg"
+    },
+    {
+      "place": "Cao Bằng",
+      "id": 14,
+      "img": "https://travelcar.vn/images/product_d10054.png"
+    },
+    {
+      "place": "Cà Mau",
+      "id": 15,
+      "img": "https://vegiagoc.com/Upload/images/GFS.png"
+    },
+    {
+      "place": "TP Cần Thơ",
+      "id": 16,
+      "img": "https://media.travelmag.vn/center/600x400/files/news/2020/08/05/can-tho-to-chuc-ngay-hoi-du-lich-van-hoa-cho-noi-cai-rang-130305.jpg"
     }
   ],
   "childPlace": [
